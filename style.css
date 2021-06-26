@@ -13,7 +13,7 @@
   
 }
 .container{
-    margin-bottom: 40px;
+    margin-bottom: 80px;
 }
 .buy-now-button{
     border: none;
@@ -24,12 +24,15 @@
     width: 50%;
     position: relative;
     left: 25%;
+    bottom: 10px;
 }
 .p2{
     color: orange;
 }
 .ss{
     text-align: center;
+    position: relative;
+    bottom: 5px;
 }
 .card{
     border: none;
@@ -39,6 +42,26 @@
 .credit{
     border-radius: 10px;
 }
-h3{
-    color: blue;
+.cat{
+    text-align: center;
+}
+.img1{
+    height: 450px;
+    width: 450px;
+}
+.h{
+  position: relative;
+  left: 25%;
+}
+.imag{
+    box-shadow:5px  5px 5px 5px rgb(219, 219, 231);
+    padding-left: 30px;
+}
+.se{
+    background-color: grey;
+    border-radius: 5px;
+    
+}
+h4{
+    text-align: center;
 }
