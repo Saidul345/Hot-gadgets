@@ -1,0 +1,44 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+.bg-3{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    
+}
+.bg-2 {
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+   
+  
+}
+.container{
+    margin-bottom: 40px;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 3px 9px;
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+.p2{
+    color: orange;
+}
+.ss{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px gray;
+ 
+}
+.credit{
+    border-radius: 10px;
+}
+h3{
+    color: blue;
+}
